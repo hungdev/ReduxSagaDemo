@@ -1,0 +1,10 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nguyen Duc Hoang",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
